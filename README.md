@@ -5,9 +5,11 @@ https://www.fluentd.org
 
 
 
-## code an demo
+## kubernetes + Fluentd  Demo
 
 https://github.com/fluent/fluentd-kubernetes-daemonset
+
+https://docs.fluentd.org/v0.12/articles/kubernetes-fluentd
 
 ## Before:
 
